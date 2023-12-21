@@ -9,3 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install -r requirements.txt
 ```
+
+## Project Showcase
+
+[![Click to Watch](https://img.youtube.com/vi/lBEfeOC_jCA/0.jpg)](https://www.youtube.com/watch?v=lBEfeOC_jCA)
