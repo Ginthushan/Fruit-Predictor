@@ -4,7 +4,7 @@ Introducing Fruit Predictor, the ultimate fruit identification program utilizing
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary packages.
 
 ```bash
 pip install -r requirements.txt
